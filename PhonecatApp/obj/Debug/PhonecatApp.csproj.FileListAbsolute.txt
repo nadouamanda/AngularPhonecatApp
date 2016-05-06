@@ -1,0 +1,6 @@
+C:\Users\jiangam\AngularProject1\PhonecatApp\PhonecatApp\bin\PhonecatApp.dll.config
+C:\Users\jiangam\AngularProject1\PhonecatApp\PhonecatApp\bin\PhonecatApp.dll
+C:\Users\jiangam\AngularProject1\PhonecatApp\PhonecatApp\bin\PhonecatApp.pdb
+C:\Users\jiangam\AngularProject1\PhonecatApp\PhonecatApp\obj\Debug\PhonecatApp.csprojResolveAssemblyReference.cache
+C:\Users\jiangam\AngularProject1\PhonecatApp\PhonecatApp\obj\Debug\PhonecatApp.dll
+C:\Users\jiangam\AngularProject1\PhonecatApp\PhonecatApp\obj\Debug\PhonecatApp.pdb
